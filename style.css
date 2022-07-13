@@ -1,0 +1,23 @@
+button{
+    display: block;
+    margin: auto;
+    margin: 1px solid black;
+    color: white;
+    border-radius: 360px;
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    font-weight: bolder;
+}
+
+p, h1{
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    margin: 10px;
+}
+
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
